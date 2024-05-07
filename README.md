@@ -1,1 +1,1 @@
-# CeaserCypher
+This Python script enables users to encrypt and decrypt messages by shifting letters by a specified number of positions, as chosen by the user. Users can opt to select a file for encryption/decryption or input the message directly.
