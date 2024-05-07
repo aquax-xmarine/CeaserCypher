@@ -1,0 +1,1 @@
+The second function is_file() should take a single parameter, a filename and return a Boolean value (True/False) depending upon whether the file exists within the current folder. There are several ways that you can achieve this, for example using exception handling logic or through the built-in OS module included with Python.
